@@ -2,7 +2,7 @@
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tentorifrancescaDev/spambase-detection-ml/blob/main/Progetto_SpamBase.ipynb)
  
-**Spambase Detection ML** is a supervised Machine Learning project that automatically classifies e-mails as *spam* or *not spam*, based on the frequency of specific keywords and special characters in the text. The project compares a **Decision Tree** and a **Support Vector Machine (SVM)** and was developed as a university assignment for the Machine Learning course. 
+**Spambase Detection ML** is a supervised Machine Learning project that automatically classifies e-mails as *spam* or *not spam*, based on the frequency of specific keywords and special characters in the text. The project compares a **Decision Tree** and a **Support Vector Machine (SVM)** and was developed as a university assignment for the Machine Learning course.
  
 ---
  
